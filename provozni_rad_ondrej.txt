@@ -2,7 +2,9 @@
 
 ---- Koncept Ondřej ----
 
-vstup do psb
+vstup do Pirate Space Brno
+--------------------------
+- vstup je umožněn osobám starším 18 let na vlastní zodpovědnost
 - neomezený vstup do Pirate Space Brno mají tito lidé (a zároveň mají klíče, dále klíčníci):
   - Ondřej Kotas
   - Tomáš Vymazal
@@ -18,6 +20,7 @@ vstup do psb
 
 
 úklid
+-----
 - placený úklid zde probíhá jednou týdně, zahrnuje mytí toalet, podlah, barů a nádobí, vysátí koberce atp.
 - každý vrátí sklenice donesené z kavárny zpět před jejich zavírací dobou, odnesete zároveň všechny ostatní prázdné sklenice
 - pokud někde něco rozlijete, podrobíte atp., ihned po sobě uklidíte
@@ -25,10 +28,12 @@ vstup do psb
 
 
 otevírání dveří
+---------------
 - poslední, komu se šlo otevřít na zazvonění, jde otevřít při dalším zazvonění a poučí o tomto pravidle příchozího
 
 
 nářadí (zapůjčování, údržba)
+----------------------------
 - Veškeré nářadí je možné zapůjčit na práci v PSB
 - Není možné bez předchozí domluvy s klíčníkem odnášet nářadí mimo PSB
 - v případě poškození kterékoliv části nářadí se tato skutečnost nahlašuje klíčníkovi. Ten, kdo škodu způsobil, ji nahradí způsobem domluveným se všemi klíčníky
@@ -36,10 +41,12 @@ nářadí (zapůjčování, údržba)
 
 
 elektronické vybavení (používání)
+---------------------------------
 - veškeré elektronické vybavení je možné používat po zaškolení (standardní vybavení jako rychlovarka, gril, PC atd. po podepsání BOZP, 3D tiskárny, 3D scanner, stojanová vrtačka apod. po zaškolení zkušeným členům PSB)
 - na PC je možné instalovat software pouze po předchozí domluvě se členy PSB
 
 konání veřejných akcí (ohlašování, organizace, rezervace místností)
+-------------------------------------------------------------------
 - konání libovolné akce v PSB je nutné minimálně 3 dny dopředu oznámit v kalendáři PSB
 - v kalendáři je taktéž nutné specifikovat místnosti, které jsou na akci blokovány (tímto vzniká rezervace prostor)
 - za všechny vpuštěné osoby do PSB v době konání akce zodpovídá organizátor akce
