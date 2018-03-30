@@ -1,18 +1,37 @@
 # Provozní řád
 
 ---- Koncept Ondřej ----
-členství v psb
-- 
 
 vstup do psb
-- vstup je umožněn pouze členům PSB vyjma nahlášených veřejných akcí, kdy je přístup umožněn veřejnosti
-- hosté mají umožněn vstup kdykoliv, kdy je v PSB minimálně jeden člen. Tito jsou vpuštěni na zodpovědnost přítomných členů.
-- členové České pirátské strany mají umožněn vstup do PSB i bez přítomnosti členů PSB. Zodpovědnost za tyto osoby přejímá ten, který tyto osoby do PSB vpouští (případně zapůjčuje klíče)
+- neomezený vstup do Pirate Space Brno mají tito lidé (a zároveň mají klíče, dále klíčníci):
+  - Ondřej Kotas
+  - Tomáš Vymazal
+  - Tomáš Koláčný
+  - Petr Springinsfeld
+  - Jan Můčka
+  - Markéta Gregorová
+  - Róbert Čuma
+  - Michal Urbánek
+- hosté mají umožněn vstup kdykoliv, kdy je v PSB minimálně jeden klíčník. Tito jsou vpuštěni na zodpovědnost přítomných členů
+- veřejnost je na nahlášenou veřejnou akci vpuštěna na zodpovědnost organizátora akce
+- členové České pirátské strany mají umožněn vstup do PSB i bez přítomnosti klíčníka. Zodpovědnost za tyto osoby přejímá klíčník, který PSB otevře nebo zapůjčí klíče. Tuto skutečnost nahlásí ostatním klíčníkům
+
+
+úklid
+- placený úklid zde probíhá jednou týdně, zahrnuje mytí toalet, podlah, barů a nádobí, vysátí koberce atp.
+- každý vrátí sklenice donesené z kavárny zpět před jejich zavírací dobou, odnesete zároveň všechny ostatní prázdné sklenice
+- pokud někde něco rozlijete, podrobíte atp., ihned po sobě uklidíte
+- PSB udržujeme v takovém stavu, v jakém jsme do něj přišli
+
+
+otevírání dveří
+- poslední, komu se šlo otevřít na zazvonění, jde otevřít při dalším zazvonění a poučí o tomto pravidle příchozího
+
 
 nářadí (zapůjčování, údržba)
 - Veškeré nářadí je možné zapůjčit na práci v PSB
-- Není možné bez předchozí domluvy se členy PSB odnášet nářadí mimo PSB
-- v případě poškození kterékoliv části nářadí se tato skutečnost nahlašuje členům PSB. Ten, kdo škodu způsobil, ji nahradí způsobem domluveným se členy PSB
+- Není možné bez předchozí domluvy s klíčníkem odnášet nářadí mimo PSB
+- v případě poškození kterékoliv části nářadí se tato skutečnost nahlašuje klíčníkovi. Ten, kdo škodu způsobil, ji nahradí způsobem domluveným se všemi klíčníky
 - vešekeré zapůjčené nářadí se vrací na původní místo, v čistém a provozuschopném stavu
 
 
@@ -25,10 +44,3 @@ konání veřejných akcí (ohlašování, organizace, rezervace místností)
 - v kalendáři je taktéž nutné specifikovat místnosti, které jsou na akci blokovány (tímto vzniká rezervace prostor)
 - za všechny vpuštěné osoby do PSB v době konání akce zodpovídá organizátor akce
 - organizátor zajišťuje, aby prostor byl připraven na akci (předem dá vědět co potřebuje - židle, stoly, projektor, pc, ...)
-
-úklid
-- úklid probíhá každý den (odnášení zapomenutých sklenic do kavárny, uklizení baru, zametení podlahy)
-- velký úklid probíhá minimálně jednou za týden (toalety, umytí podlahy, vysátí sálů)
-- generální úklid probíhá minimálně dvakrát ročně
-- na úklidu se podílí členové PSB
-- 
