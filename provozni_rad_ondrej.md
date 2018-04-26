@@ -61,6 +61,7 @@ Elektronické vybavení (používání)
   - 3D tiskárny, 3D scanner, stojanová vrtačka apod. po zaškolení kastelánem (či jeho neformálním zástupcem)
 - na PC je možné instalovat software pouze po předchozí domluvě s kastelánem (či jeho neformálním zástupcem)
 
+
 Evidence majetku
 ----------------
 - v PSB se nachází majetek, který má různé majitele
