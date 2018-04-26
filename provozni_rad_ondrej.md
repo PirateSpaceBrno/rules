@@ -1,6 +1,6 @@
 # Provozní řád
 
-Hackerspace nebo hackspace je místo, kde se lidé s podobnými zájmy v oborech jako počítače, technologie, digital art či electronic art mohou setkat, prohlubovat nebo navazovat nové sociální vazby a spolupracovat na různých projektech shrnujících vědění z jednoho nebo více těchto oborů.
+Hackerspace nebo hackspace je místo, kde se lidé s podobnými zájmy v oborech jako počítače, technologie, digital art či electronic art mohou setkat, prohlubovat nebo navazovat nové sociální vazby a spolupracovat na různých projektech shrnujících vědění z jednoho nebo více těchto oborů.      
 Hackerspace bývá poměrně otevřená komunita, často má podobu blízkou dílně, laboratoři, pořádají se zde přednášky, samovolně se utvářejí týmy spolupracující na konkrétním projektu. Hlavní výhodou je sdílení vědomostí a prostředků pro realizaci zajímavých projektů, které by běžný kutil doma „na koleně“ pravděpodobně sám nedokončil. Mnoho hackerspaců přispívá do různých free software komunit a alternativních medií.
 (zdroj: https://cs.wikipedia.org/wiki/Hackerspace)
 
@@ -26,11 +26,12 @@ Vstup do Pirate Space Brno
 
 Úklid
 -----
-- prostor udržujeme v čistotě a chováme se zde, jako doma -
 - kromě placeného úklidu, který probíhá jednou týdně, zde nejsou žádní otroci - po sobě si uklízí každý sám
-- politou podlahu či podrobený stůl dotyčný bezprodleně uklidí
-- každý vrátí sklenice donesené z kavárny zpět před jejich zavírací dobou, odnese zároveň všechny ostatní prázdné sklenice
-- PSB udržujeme ideálně v čistším stavu, než v jakém jsme do něj přišli
+- prostor udržujeme v čistotě a chováme se zde jako doma, tedy každý:
+  - vrátí sklenice donesené z kavárny zpět před jejich zavírací dobou, odnese zároveň všechny ostatní prázdné sklenice
+  - obaly od potravin a jiného jídla okamžitě odnáší do popelnice
+  - politou podlahu, podrobený stůl atp. bezprodleně uklidí  
+  - PSB udržuje ideálně v čistším stavu, než v jakém do něj přišel
 
 
 Otevírání dveří
