@@ -1,6 +1,7 @@
 # Provozní řád
 
-Hackerspace nebo hackspace je místo, kde se lidé s podobnými zájmy v oborech jako počítače, technologie, digital art či electronic art mohou setkat, prohlubovat nebo navazovat nové sociální vazby a spolupracovat na různých projektech shrnujících vědění z jednoho nebo více těchto oborů. Hackerspace bývá poměrně otevřená komunita, často má podobu blízkou dílně, laboratoři, pořádají se zde přednášky, samovolně se utvářejí týmy spolupracující na konkrétním projektu. Hlavní výhodou je sdílení vědomostí a prostředků pro realizaci zajímavých projektů, které by běžný kutil doma „na koleně“ pravděpodobně sám nedokončil. Mnoho hackerspaců přispívá do různých free software komunit a alternativních medií.
+Hackerspace nebo hackspace je místo, kde se lidé s podobnými zájmy v oborech jako počítače, technologie, digital art či electronic art mohou setkat, prohlubovat nebo navazovat nové sociální vazby a spolupracovat na různých projektech shrnujících vědění z jednoho nebo více těchto oborů.
+Hackerspace bývá poměrně otevřená komunita, často má podobu blízkou dílně, laboratoři, pořádají se zde přednášky, samovolně se utvářejí týmy spolupracující na konkrétním projektu. Hlavní výhodou je sdílení vědomostí a prostředků pro realizaci zajímavých projektů, které by běžný kutil doma „na koleně“ pravděpodobně sám nedokončil. Mnoho hackerspaců přispívá do různých free software komunit a alternativních medií.
 (zdroj: https://cs.wikipedia.org/wiki/Hackerspace)
 
 
