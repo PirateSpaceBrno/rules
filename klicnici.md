@@ -1,0 +1,9 @@
+  - Ondřej Kotas (zároveň Kastelán)
+  - Tomáš Vymazal
+  - Tomáš Koláčný
+  - Petr Springinsfeld
+  - Markéta Gregorová
+  - Róbert Čuma
+  - Michal Urbánek (zároveň Neformální zástupce kastelána)
+  - Michal Marciniszyn
+  - KoKS - Šárka Václavíková
