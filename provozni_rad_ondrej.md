@@ -10,15 +10,7 @@ Vstup do Pirate Space Brno
 - vstup je umožněn osobám starším 18 let na vlastní zodpovědnost
 - každý příchozí zapíše svůj příchod do návštěvní knihy
 - neomezený vstup do Pirate Space Brno mají tito lidé (a zároveň mají klíče, dále klíčníci):
-  - Ondřej Kotas (zároveň Kastelán)
-  - Tomáš Vymazal
-  - Tomáš Koláčný
-  - Petr Springinsfeld
-  - Jan Můčka
-  - Markéta Gregorová
-  - Róbert Čuma
-  - Michal Urbánek (zároveň Neformální zástupce kastelána)
-  - Radek Holomčík
+  - viz příloha 1
 - hosté mají umožněn vstup kdykoliv na zodpovědnost otevírajícího klíčníka
 - veřejnost je na nahlášenou veřejnou akci vpuštěna na zodpovědnost organizátora akce
 - členové České pirátské strany mají umožněn vstup do PSB i bez přítomnosti klíčníka. Zodpovědnost za tyto osoby přejímá klíčník, který PSB otevře nebo zapůjčí klíče. Tuto skutečnost nahlásí ostatním klíčníkům
@@ -69,3 +61,8 @@ Evidence majetku
 - v PSB se nachází majetek, který má různé majitele
 - každá věc má na sobě evidenční štítek a je zapsána do evidence majetku (ve štítku i databázi je zaznamenáno o jakou věc jde, ve které místnosti se věc nachází, kdo je její majitel, atd.)
 - nález věci bez evidenčního štítku se nahlašuje kastelánovi (či jeho neformálnímu zástupci), koordinátorovi krajského sdružení (KoKS) nebo se zapíše do návštěvní knihy
+
+Zakázané látky
+--------------
+- přechovávání a výroba zakázaných látek nejsou v objektech provozovaných stranou přijatelné
+
