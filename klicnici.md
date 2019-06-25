@@ -6,4 +6,5 @@
   - Róbert Čuma
   - Michal Urbánek (zároveň Neformální zástupce kastelána)
   - Michal Marciniszyn
+  - Lukáš Mamula
   - KoKS - Šárka Václavíková
