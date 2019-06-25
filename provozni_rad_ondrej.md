@@ -64,5 +64,5 @@ Evidence majetku
 
 Zakázané látky
 --------------
-- přechovávání a výroba zakázaných látek nejsou v objektech provozovaných stranou přijatelné
+- přechovávání zakázaných látek nejsou v objektech provozovaných stranou přijatelné
 
